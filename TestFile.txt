@@ -6,4 +6,5 @@ readln (x, y);
 s:=x+y;
 p:=x*y;
 writeln (s);
+writeln (p);
 end.
